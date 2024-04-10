@@ -5,7 +5,7 @@
 
 # 🐣 Origin Choi
  
-Hi, I am trying to become a nice developer😎
+Hi, I am trying to become a nice developer ☺️
 
 
 <br/><br/><br/><br/>
