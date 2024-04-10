@@ -1,4 +1,16 @@
-## 🐣 Origin Choi
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Origin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+<div align=center>
+
+# 🐣 Origin Choi
+ 
+Hi, I am trying to become a nice developer😎
+
+
+<br/><br/><br/><br/>
+
+## 📚 Tech Stacks
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
@@ -18,7 +30,13 @@
 
 ![](https://img.shields.io/badge/React%20Dom%20Testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Vitest-%2344A833.svg?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+
+</div>
+
+<br/><br/><br/><br/><br><br/>
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
 
 <!--
 **originchoi/originchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +53,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./profile-3d-contrib/profile-night-green.svg)
