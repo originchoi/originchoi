@@ -1,16 +1,12 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Origin&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
-<div align=center>
-
 # 🐣 Origin Choi
 다음은 오지 않는다. '이번만, 다음에!' 하지 않기 
 
 직면한 문제에 대해 고민하고, 공부하기에 가장 최적의 시기는, '지금 직면했을 때'
 
 스스로의 부족한 점을 의식적으로 찾아보고, 개선점을 고민하기
-
-</div>
 
 <br />
 <br />
