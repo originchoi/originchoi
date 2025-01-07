@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/MongoDB%20&%20Mongoose-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 ![](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ![](https://img.shields.io/badge/React%20Dom%20Testing-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
