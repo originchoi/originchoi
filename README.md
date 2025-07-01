@@ -1,12 +1,3 @@
-## ✨ Projects
-### [Interaction](https://github.com/howinteraction/interaction)
-- Interaction은 정적인 웹페이지에서 1인칭 시점을 기준으로 키보드로 플레이어를 이동하고 마우스로 물체를 드래그하며 각 스테이지에 스며들어 있는 물체간의 착시를 이용해서 퍼즐로 되어있는 스테이지를 클리어 하는 방식으로 구성된 웹 게임 입니다.
-### [FlowCatcher](https://github.com/originchoi/FlowCatcher-client)
-- 웹사이트 사용자 행동 데이터를 기반으로 페이지 이동 흐름을 시각화 해주는 서비스 입니다.
-
-<br />
-<br />
-
 ## 📚 Studying
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
